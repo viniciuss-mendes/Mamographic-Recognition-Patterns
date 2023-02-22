@@ -1,4 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/lucasbottrel/Mamographic_Recognition_Patterns?style=for-the-badge) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lucasbottrel/Mamographic_Recognition_Patterns?color=%230058e6&label=version&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/lucasbottrel/Mamographic_Recognition_Patterns?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasbottrel/Mamographic_Recognition_Patterns?style=for-the-badge) [LinkedIn][linkedin-url]
+![GitHub Repo stars](https://img.shields.io/github/stars/lucasbottrel/Mamographic_Recognition_Patterns?style=for-the-badge) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lucasbottrel/Mamographic_Recognition_Patterns?color=%230058e6&label=version&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/lucasbottrel/Mamographic_Recognition_Patterns?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasbottrel/Mamographic_Recognition_Patterns?style=for-the-badge)
 
 # Mamographic Recognition Patterns
 
